@@ -75,6 +75,12 @@ a {
     color: black;
 }
 
+button{
+    width: 12%;
+    font-size: 40px;
+    background-color: silver;
+}
+
 button:hover {
     background-color: white;
     color: black;
