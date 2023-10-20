@@ -121,12 +121,27 @@ a {
     border: none;
 }
 
+.ending button {
+    width: 20%;
+    text-transform: lowercase;
+    font-size: 25px;
+    font-family: garamond;
+    background-color: silver;
+    border-radius: 10px;
+    border: none;
+}
+
 .text button:hover {
     background-color: rgb(92, 22, 22);
     color: darkred;
 }
 
 .opening button:hover {
+    background-color: rgb(92, 22, 22);
+    color: darkred;
+}
+
+.ending button:hover {
     background-color: rgb(92, 22, 22);
     color: darkred;
 }
